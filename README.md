@@ -1,2 +1,2 @@
 # alumni-rpl-bakal
-page alumni rekayasa perangkat lunak smk negeri bantarkalong
+Page Alumni Rekayasa Perangkat Lunak SMK Negeri Bantarkalong
